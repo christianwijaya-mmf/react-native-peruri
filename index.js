@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNReactNativePeruri } = NativeModules;
+const { RNPeruri } = NativeModules;
 
-export default RNReactNativePeruri;
+export default RNPeruri;
