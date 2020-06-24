@@ -1,18 +1,30 @@
 
 {
   "name": "react-native-peruri",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "React Native Peruri",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "peruri"
   ],
-  "author": "",
-  "license": "",
+  "author": "christianwijaya.net@gmail.com",
+  "homepage": "https://github.com/christianwijaya-mmf/react-native-peruri",
+  "contributors": [
+    {
+      "name": "Christian Wijaya",
+      "email": "christianwijaya.net@gmail.com"
+    }
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianwijaya-mmf/react-native-peruri"
   }
 }
